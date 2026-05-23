@@ -339,5 +339,12 @@ Check-in:
 
 ---
 
+## 📄 Contract Details
+
+- Contract Address (Stellar Soroban):
+```
+CCP2FSK5RG5ZS44DNVVXBUJ6MDJXCL744DKARPI3JKYDVBDAMXEFERMA
+```
+
 **HabitChain DApp**
 Building Better Habits with Blockchain 🚀
